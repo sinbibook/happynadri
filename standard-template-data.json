@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-22T08:59:31.107704084Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-22T09:07:28.558878492Z",
     "templateType": "trip_h",
     "propertyId": "89072cf1-b4de-486b-94f1-19347f00ce8f",
     "homepageId": "01a161aa-ec42-7b5f-844b-d5c88e64b269"
@@ -1502,7 +1502,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "끝없는 동해바다..\n가슴까지 시원한 바다전경이 눈앞에 펼쳐지는\n양양 행복나드리 글램핑&amp;카라반으로 떠나요!!"
+                "description": "끝없는 동해바다..\n가슴까지 시원한 바다전경이 눈앞에 펼쳐지는\n양양 행복나드리 글램핑&카라반으로 떠나요!!"
               },
               "essence": {
                 "title": "Outside View",
@@ -1542,7 +1542,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "가슴까지 시원한 바다전경이 눈앞에 펼쳐지는\n양양 행복나드리 글램핑&amp;카라반의 외부 전경을 확인해보세요."
+                "description": "가슴까지 시원한 바다전경이 눈앞에 펼쳐지는\n양양 행복나드리 글램핑&카라반의 외부 전경을 확인해보세요."
               },
               "gallery": {
                 "title": "",
