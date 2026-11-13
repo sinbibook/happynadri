@@ -67,6 +67,11 @@
       <!--// hd_lnb -->
 
       <div class="btn_hd_res"><a href="#!" target="_blank" data-booking-link>예약하기</a></div>
+      <!-- MAPPER: property.ybsId → YBS(야놀자) 링크. 값 없으면 숨김 (기본 숨김 — 매핑 전 깜빡임 방지).
+           원본(happynadri)처럼 스크롤 상태(.header.on)에서 예약하기 오른쪽에 같은 모양으로 붙는다. -->
+      <div class="btn_hd_res btn_hd_ybs" data-ybs-wrap style="display: none">
+        <a href="#!" target="_blank" data-ybs-button>YBS</a>
+      </div>
       <a href="#" class="btn_menu" aria-label="메뉴 열기">
         <img src="images/common/menu_btn2.png" alt="" />
       </a>
